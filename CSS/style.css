@@ -4,15 +4,14 @@ body{
     background-color: rgb(240, 92, 129);
 }
 
-.button {
-    border: none;
-    color: rgb(28, 184, 88);
-    background-color: rgb(240, 92, 129);
-    padding: 15px 32px;
-    text-align: center;
+.btn{
     text-decoration: none;
-    display: inline-block;
+    border-radius: 3px;
+    width: 160px;
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
