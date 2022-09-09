@@ -1,7 +1,11 @@
-body{
-    font-size: 2em;
-    text-align: center;
-    background-color: rgb(240, 92, 129);
+ body{
+   text-align: center;
+   color: #fff;
+   background-color: rgb(194, 0, 32);
+   font-size: 1.5em;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+
 }
 
 .btn{
